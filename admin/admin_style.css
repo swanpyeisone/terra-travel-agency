@@ -1,0 +1,58 @@
+
+    #mainNav {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+
+  background-color: black;
+}
+#mainNav .navbar-toggler {
+  padding: 0.75rem;
+  font-family: Arial;
+  font-size: 0.75rem;
+  color: #fff;
+  text-transform: uppercase;
+  background-color:#249638 ;
+  border: 0;
+
+}
+#mainNav .navbar-brand {
+  color: #249638;
+  font-family:Arial;
+  font-weight: 700;
+  letter-spacing: 0.0625em;
+  text-transform: uppercase;
+}
+#mainNav .navbar-brand img {
+  height: 1.5rem;
+}
+.nav-item{
+  margin-right: 30px;
+}
+#mainNav .navbar-nav .nav-item .nav-link {
+  font-family:Arial;
+  font-size: 0.85rem;
+  color: #fff;
+  letter-spacing: 0.0625em;
+}
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: #249638;
+}
+.nav-item:hover .dropdown-menu{
+   display: block;
+ }
+
+ h2{
+  color: green;
+ }
+ .entry_form{
+  margin: auto;  
+ }
+/* .btn{
+  border-radius: 1px solid;
+}
+
+.btn:hover {
+color: white;
+  margin-right: auto;
+
+}  */
